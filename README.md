@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shuyuanwu
-- 👀 I'm a Ph.D. student in Statistics at Peking University
+- 👀 I currently work in School of Statistics and Management at Shanghai University of Finance and Economics
 - 🌱 My primary research interests: Large Dataset Analysis, Subsampling, and Distributed Statistical Computing
-- 📫 Please feel free to reach me via email at shuyuan.w@pku.edu.cn
+- 📫 Please feel free to reach me via email at shuyuan.w@msg.sufe.edu.cn
 
 <!---
 - 💞️ I’m looking to collaborate on ...
