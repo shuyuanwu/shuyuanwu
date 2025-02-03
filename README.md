@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shuyuanwu
-- 👀 I currently work in School of Statistics and Management at Shanghai University of Finance and Economics
+- 👀 I currently work in School of Statistics and Data Science at Shanghai University of Finance and Economics
 - 🌱 My primary research interests: Large Dataset Analysis, Subsampling, and Distributed Statistical Computing
 - 📫 Please feel free to reach me via email at shuyuan.w@msg.sufe.edu.cn
 
